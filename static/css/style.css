@@ -199,10 +199,11 @@ body {
 }
 
 .hero {
-  background-image: url('/static/img/bg.jpg');
+  background-image: url('/static/img/bg-img.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  background-size: cover;
 }
 ul {
   margin: 0px;
